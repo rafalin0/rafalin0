@@ -8,10 +8,10 @@
 
 <header>
   <div align="center">
-    <a href="https://rafalin.dev">
+    <a href="https://rafalin.dev" target="_blank">
       <img alt="My Personal Website" src="https://img.shields.io/static/v1?color=858DFF&label=Website&message=rafalin.dev&style=flat&logoColor=ffffff&labelColor=0E0C15">
     </a>
-    <a href="https://www.linkedin.com/in/rapha-lynne/">
+    <a href="https://www.linkedin.com/in/rapha-lynne/" target="_blank">
       <img alt="My Linkedin Profile" src="https://img.shields.io/static/v1?color=858DFF&label=Linkedin&message=RaphaLynne&style=flat&logo=linkedin&logoColor=ffffff&labelColor=0E0C15">
     </a>
   </div>
